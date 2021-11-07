@@ -1,15 +1,9 @@
-Hi! My name IS Anvar Alimov
-I am from Uzbekistan
-I like write code, read books and watch movies
-Contact:
-Phone: +998901167099
-Telegram: @Avar_Alimov
-Instagram & Twitter: @anvar_dev
-Facebook: @akkurgancoder
-
-110401, Uzbekistan, Tashkent, Akkurgan, Anvar Alimov
-
-<!---
-anvaralimov/anvaralimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hello there! I am a 16-year-old Uzbek programmer
+# I am the founder of the Archa Linux project and a Web programmer, as well as a System Administrator
+ <strong>Social networks where you can meet me</strong>
+Twitter <a href="https://twitter.com/AnvrDev">@AnvarDev</a>
+Facebook <a href="https://facebook.com/akkurgancoder">@akkurgancoder</a>
+Instagram <a href="https://instagram.com/anvar_dev">@anvar_dev</a>
+Telegram <a href="https://t.me/Anvar_Alimov"></a>
+<hr />
+Email: mailto:anvar_dev@mail.ru
